@@ -11,5 +11,5 @@ brew tap rypen/cli-tools
 ## Use
 
 ```
-brew install rypen/<formula>
+brew install git-branch-day
 ```
