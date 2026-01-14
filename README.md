@@ -1,15 +1,15 @@
-# homebrew-ryanous
+# homebrew-cli-tools
 
-Homebrew tap for Ryan's CLI tools.
+Homebrew tap for rypen CLI tools.
 
 ## Install
 
 ```
-brew tap ryanous/ryanous
+brew tap rypen/cli-tools
 ```
 
 ## Use
 
 ```
-brew install ryanous/<formula>
+brew install rypen/<formula>
 ```
