@@ -9,7 +9,7 @@ class GitBranchDay < Formula
   depends_on "git"
 
   def install
-    system "go", "build", "./cmd/git-branch-day", *std_go_args(output: bin/"git-branch-day")
+    system "go", "build", *std_go_args(output: bin/"git-branch-day"), "./cmd/git-branch-day"
   end
 
   test do
